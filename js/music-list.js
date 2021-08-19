@@ -53,7 +53,7 @@ let allMusic = [
     src: "music-7"
   },
   {
-    name: "feat.Au/Ra and Tomine Harket",
+    name: "Feat.Au/Ra and Tomine Harket",
     artist: "Alan Walker",
     img: "music-8",
     src: "music-8"
