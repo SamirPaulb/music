@@ -15,8 +15,9 @@ Music List:
 Mobile View:
 <p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaulb/assets/main/music/mobile-view.gif"></p>
 
+---
 
-#### Embed MusicApp
+### Embed MusicApp
 
 Embed this music player to any website:
 
