@@ -17,7 +17,7 @@ Mobile View:
 
 ---
 
-### Embed MusicApp
+## Embed MusicApp
 
 Embed this music player to any website:
 
