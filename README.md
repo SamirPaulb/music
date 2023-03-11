@@ -13,4 +13,4 @@ Music List:
 ![screenshot](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/1.png)
 
 Mobile View:
-<p align="center"><img width=100% src="https://samirpaulb.github.io/assets/music/mobile-view.gif"></p>
+<p align="center"><img width=100% src="https://raw.githubusercontent.com/SamirPaulb/assets/main/music/mobile-view.gif"></p>
