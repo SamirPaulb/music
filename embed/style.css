@@ -232,8 +232,8 @@ body{
   font-size: 11px;
 }
 .music-list ul li .row p{
-  opacity: 0.9;
-  font-size: 8px;
+  opacity: 0.0;
+  font-size: 0px;
 }
 ul li .audio-duration{
   font-size: 12px;
