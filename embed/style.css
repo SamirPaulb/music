@@ -13,6 +13,7 @@
   --violet: #9f6ea3;
   --lightblack: #515C6F;
   --white: #ffffff;
+  --green: #00a816;
   --darkwhite: #cecaca;
   --pinkshadow: #ffcbdd;
   --lightbshadow: rgba(0,0,0,0.15);
@@ -240,5 +241,5 @@ ul li .audio-duration{
 }
 ul li.playing{
   pointer-events: none;
-  color: var(--violet);
+  color: var(--green);
 }
