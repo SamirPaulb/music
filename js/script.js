@@ -183,7 +183,7 @@ for (let i = 0; i < allMusic.length; i++) {
                   <p>${allMusic[i].artist}</p>
                 </div>
                 <span id="${allMusic[i].src}" class="audio-duration">3:40</span>
-                <audio preload="none" class="${allMusic[i].src}" src="https://samirpaulb.github.io/assets/music/${allMusic[i].src}.mp3"></audio>
+                <audio preload="auto" class="${allMusic[i].src}" src="https://samirpaulb.github.io/assets/music/${allMusic[i].src}.mp3"></audio>
               </li>`;
   ulTag.insertAdjacentHTML("beforeend", liTag); //inserting the li inside ul tag
 
