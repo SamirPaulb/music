@@ -11,50 +11,50 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Lofi Study Music 1",
+    artist: "Unknown",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Lofi Study Music 2",
+    artist: "Unknown",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Lofi Study Music 3",
+    artist: "Unknown",
     img: "music-3",
     src: "music-3"
   },
   {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
+    name: "Lofi Study Music 4",
+    artist: "Unknown",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
+    name: "Lofi Study Music 5",
+    artist: "Unknown",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "Lofi Study Music 6",
+    artist: "Unknown",
     img: "music-6",
     src: "music-6"
   },
   {
-    name: "Alan Walker - Faded",
-    artist: "ImanbekMusic",
+    name: "Lofi Study Music 7",
+    artist: "Unknown",
     img: "music-7",
     src: "music-7"
   },
   {
-    name: "Feat.Au/Ra and Tomine Harket",
-    artist: "Alan Walker",
+    name: "Lofi Study Music 8",
+    artist: "Unknown",
     img: "music-8",
     src: "music-8"
   },
