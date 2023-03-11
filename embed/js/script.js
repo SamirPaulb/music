@@ -24,7 +24,7 @@ function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicImg.src = `#`;
-  mainAudio.src = `https://samir-paul.github.io/audio//${allMusic[indexNumb - 1].src}.mp3`;
+  mainAudio.src = `https://samir-paul.github.io/audio/${allMusic[indexNumb - 1].src}.mp3`;
 }
 
 //play music function
