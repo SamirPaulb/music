@@ -16,7 +16,7 @@ Music List:
 
 Mobile View:
 <p align="center">
-<a href="#" rel="Mobile View"><img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/music/mobile-view.gif"></a>
+<a href="#" rel="Mobile View"><img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/music/mobile-view.webp"></a>
 </p>
 
 ---
