@@ -3,7 +3,7 @@
 Embed this music player to any website:
 
 ```html
-<iframe src="https://samirpaul1.github.io/music/embed"
+<iframe src="https://samirpaulb.github.io/music/embed"
 	title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
