@@ -4,7 +4,7 @@
  
 ## Live Demo
 
-[Live Demo Link](https://samirpaul1.github.io/music) :point_left:
+[Live Demo Link](https://samirpaulb.github.io/music) :point_left:
 
 Landing Page:
 <a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
@@ -26,7 +26,7 @@ Mobile View:
 Embed this music player to any website:
 
 ```html
-<iframe src="https://samirpaul1.github.io/music/embed"
+<iframe src="https://samirpaulb.github.io/music/embed"
 	title="Embed MusicApp"
 	frameborder="0"
 	loading="lazy"
