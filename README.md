@@ -14,7 +14,7 @@ Music List:
 
 Mobile View:
 <p align="center">
-<a href="#" rel="Mobile View"><img src="https://github.com/user-attachments/assets/076ec735-bddc-477b-b082-4d89a85f6146"></a>
+<a href="#" rel="Mobile View"><img src="https://spcdn.pages.dev/music/mobile-view.webp"></a>
 </p>
 
 ---
