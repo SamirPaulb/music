@@ -7,16 +7,14 @@
 [Live Demo Link](https://samirpaulb.github.io/music) :point_left:
 
 Landing Page:
-<a href="#" rel="Landing Page">![Landing Page](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/2.png)</a>
-
+<a href="#" rel="Landing Page">![Landing Page](https://github.com/user-attachments/assets/fc31b4ae-4eca-4178-b085-07bda18a8053)</a>
 
 Music List:
-<a href="#" rel="Music List">![Music List](https://raw.githubusercontent.com/SamirPaulb/assets/main/music/1.png)</a>
-
+<a href="#" rel="Music List">![Music List](https://github.com/user-attachments/assets/ae4f6f6b-5c47-4540-883e-4b41466de958)</a>
 
 Mobile View:
 <p align="center">
-<a href="#" rel="Mobile View"><img src="https://raw.githubusercontent.com/SamirPaulb/assets/main/music/mobile-view.webp"></a>
+<a href="#" rel="Mobile View"><img src="https://github.com/user-attachments/assets/076ec735-bddc-477b-b082-4d89a85f6146"></a>
 </p>
 
 ---
